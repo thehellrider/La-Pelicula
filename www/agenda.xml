@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+	<evento>
+	<titulo>Enzo Macchiavello</titulo>
+	<fecha>Lucas</fecha>
+	<descripcion>Músico y artista guayaquileño. Ha participado en la realización de varios cortometrajes. Sin otoño, Sin Primavera es su primer largometraje como actor.</descripcion>
+	<foto>evento1.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>Angela Peñaherrera</titulo>
+	<fecha>Paula</fecha>
+	<descripcion>Música y compositora guayaquileña. Trabaja desde los 12 años en fotografía. En la escena musical local es conocida como ex integrante de la banda punk THE CASSETTES. Sin Otoño, Sin Primavera es su primer largometraje como actriz.</descripcion>
+	<foto>evento2.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>Paulina Obrist</titulo>
+	<fecha>Antonia</fecha>
+	<descripcion>Artista guayaquileña. Dirige El Inmundicipio, espacio dedicado al arte guayaco. Lo suyo son las letras y el performance diario. Sin Otoño, Sin Primavera es su primer largometraje como actriz.</descripcion>
+	<foto>evento3.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>Paola Baldión</titulo>
+	<fecha>Gloria</fecha>
+	<descripcion>Actriz colombiana. Ha actuado en varios largometrajes internacionales. Protagonista de la película RETRATOS EN UN MAR DE MENTIRAS de Carlos Gaviria, le valió el premio a mejor actriz en Festival de Guadalajara.</descripcion>
+	<foto>evento4.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>Andrés Troya</titulo>
+	<fecha>Martín</fecha>
+	<descripcion>Artista guayaquileño, dedicado actualmente a la gastronomía. Después de vivir su niñez en el Ecuador, viaja a Alemania a buscar fortuna, lugar donde se convierte en un adulto. Sin Otoño, Sin Primavera es su primer largometraje como actor.</descripcion>
+	<foto>evento5.jpg</foto>
+	</evento>	
+</agenda>
